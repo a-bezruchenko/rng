@@ -32,3 +32,16 @@
 *.app
 
 test_dont_upload/*.*
+
+# игнорируем файлы вижуалки
+ipch
+Debug
+rng.sdf
+rng.sln
+rng.suo
+rng.opensdf
+rng/Debug
+rng/rng.vcxproj
+rng/rng.vcxproj.filters
+rng/rng.vcxproj.user
+.vs
